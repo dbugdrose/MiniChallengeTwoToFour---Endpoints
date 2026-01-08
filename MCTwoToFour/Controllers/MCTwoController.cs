@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MCTwoToFour.Controllers;
-using MCTwoToFour.Models;
 using MCTwoToFour.Services;
 
 namespace MCTwoToFour.Controllers
